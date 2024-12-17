@@ -1,7 +1,7 @@
-Portfolio
+Data Analysis Blog
 =========
 
-Version control for my portfolio website.
+Documentation for my dot Campus journey.
 
 ---
 
